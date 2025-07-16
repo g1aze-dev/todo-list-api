@@ -1,6 +1,4 @@
-Вот `README.md` для вашего проекта TODO List API:
 
-```markdown
 # TODO List API
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -115,4 +113,3 @@ curl -X POST "http://localhost:8000/tasks" \
 ```bash
 curl "http://localhost:8000/tasks?user_id=1"
 ```
-
